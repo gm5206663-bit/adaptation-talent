@@ -1,8 +1,8 @@
-5427eddd12ca0145323831fe19c2c9588f6e75cd274cceca3565269db2af94f6  ./.github/workflows/verify.yml
+dd23e4d8091f7fe0505e2b4cf7ed3c04680a4c62367c90ccfc975378e6af4bde  ./.github/workflows/verify.yml
 c317d8d48606c85a9a1a244d20c72cfd57eefa3b2d57760f25e8efd2a1ee8102  ./LICENSE
 881b439d81dd6e71424a1671d673c7c72c41693e08b73d8954ea585884b3d321  ./NOTICE.md
 a1492f4bdd611f5e363ce3e1cceb47313b53be2f0c373cf231326202070017b1  ./QUICK-REFERENCE.md
-7698628f6712049de5ea90478a25084130641f9bd9edb819cbd21edc05b74fcd  ./README.md
+1db35deffc08dc2e443c029e5546bcc92b7d65f8ba819e627975ee1c47d4aa6d  ./README.md
 2db91598f57c48df289ec04b82b809ab8cae72f962c147c1665f6ed36a4728aa  ./assets/banner.png
 49898ca407e19d4abc2a6dbd548927734f6e25e8dddcaa500630a3ec4da34f31  ./canon/GENESIS-CODEX-ADAPTIVE.md
 7d49f87ccf34d057034d2244e2f8ae70a01bfbe28facf88aeb48ed05338332f8  ./canon/LEVEL-FRAMEWORK.md
@@ -13,7 +13,7 @@ d535cf570cf53a1e1088d5ad80c4f5b86813a654c47f0ba1921ddc90d462ab5f  ./canon/STORYO
 f3d2c6c7ffe60c63f16a479d6401a1c610afd10d6254c4421764bcef77e1a9bc  ./docs/03_orders_and_maturity.md
 d793cefed8d7a496dbdf0bb51c9e07cd205af760e1afe379c758f6d461f61a7d  ./docs/04_writing_it.md
 b33834581abb7c4afebadd9b610c3c8560d2dad0f786398b7bdd44cd6c00e8bf  ./docs/05_the_holders.md
-d23f265ac94a7b478c24667117dbfa9df844afad70c4af08b7b088b3c89ec61a  ./docs/index.html
+0de4d4b7cd0f9be24bf33ec656bd821127d088d5db1b1e7399a8bad79cf2831b  ./docs/index.html
 ba7bc9b7ff9d1ceda0e1ae92c5e08d90398b0d4f7859f0aebf10468298c706b8  ./docs/media/holders-map.svg
 429218fbd0be0fd65de354cdad738fac7dec76783036795774a6e874f2949615  ./docs/media/ten-orders.svg
 e9811078b349198999f212466bb1f94e1838c0abce76b857a1124ef293c493ca  ./modules/README.md
@@ -52,4 +52,5 @@ a78e5d40b59e4f931d4f7b9483e714e5c4d4ff8f6018e7de822664edb6c6797f  ./templates/RE
 bcdf3e58850915cdd357e4570d477b3ead39562485b664e691019eec6d9bb254  ./templates/holder-module.md
 39c7435d200314960fb02c035eaf239b188af09a0138517f59536bc9da71a662  ./templates/status-panel.md
 adb4f641f56a832f6785e2021c6a3a5fd7ceba5b6314d2524bce47feb0bba94e  ./tools/check.py
+fb7a8a67c7e650fac50b186c78933d786930c7617d2bc8565d1c6eb2ad220965  ./tools/check_counts.py
 16c4c720efb8bcbf76521a3b25e6499dd87cb4df5214f2ade7617d9768394d4a  ./tools/refresh-manifest.sh

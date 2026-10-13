@@ -152,7 +152,7 @@ library, and the method itself:
 - [how-to-write-fanfiction](https://github.com/gm5206663-bit/how-to-write-fanfiction) — the production method these serials are built with
 - [soul-land-universal-kit](https://github.com/gm5206663-bit/soul-land-universal-kit) — the workshop and the serials
 - [the-authors-desk](https://github.com/gm5206663-bit/the-authors-desk) — the register of everything
-- [stark-heir](https://github.com/gm5206663-bit/stark-heir) · [mcu-eternal-fanfic](https://github.com/gm5206663-bit/mcu-eternal-fanfic) — the two MCU serials
+- [stark_heir](https://github.com/gm5206663-bit/stark_heir) · [mcu_eternal_fanfic](https://github.com/gm5206663-bit/mcu_eternal_fanfic) — the two MCU serials
 
 ---
 
