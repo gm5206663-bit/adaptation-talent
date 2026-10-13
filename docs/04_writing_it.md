@@ -71,6 +71,9 @@ awakening) and [modules/devouring-dragon-log.md](../modules/devouring-dragon-log
 
 ### The Character- and Universe-Specific Module — §71
 
+**Blank forms for all three documents live in [`templates/`](../templates/)** — copy,
+fill the placeholders, cite the law.
+
 The module template has seven parts — the shape every file in
 [`modules/`](../modules/) follows:
 

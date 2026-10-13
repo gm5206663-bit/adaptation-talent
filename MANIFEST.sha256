@@ -1,6 +1,8 @@
+5427eddd12ca0145323831fe19c2c9588f6e75cd274cceca3565269db2af94f6  ./.github/workflows/verify.yml
 c317d8d48606c85a9a1a244d20c72cfd57eefa3b2d57760f25e8efd2a1ee8102  ./LICENSE
 881b439d81dd6e71424a1671d673c7c72c41693e08b73d8954ea585884b3d321  ./NOTICE.md
-e24e3299b6dda381688287fa9ce8e9019f06749d313367710393ac1da7c5e75a  ./README.md
+a1492f4bdd611f5e363ce3e1cceb47313b53be2f0c373cf231326202070017b1  ./QUICK-REFERENCE.md
+057549cf18242f6d257f6eae328a0b5c9ec83687cfcfff82fcbdb67f2d224df7  ./README.md
 2db91598f57c48df289ec04b82b809ab8cae72f962c147c1665f6ed36a4728aa  ./assets/banner.png
 49898ca407e19d4abc2a6dbd548927734f6e25e8dddcaa500630a3ec4da34f31  ./canon/GENESIS-CODEX-ADAPTIVE.md
 7d49f87ccf34d057034d2244e2f8ae70a01bfbe28facf88aeb48ed05338332f8  ./canon/LEVEL-FRAMEWORK.md
@@ -9,9 +11,9 @@ d535cf570cf53a1e1088d5ad80c4f5b86813a654c47f0ba1921ddc90d462ab5f  ./canon/STORYO
 543cc226b8ca5f5f86a01ce6e6348d2cb26a144aec1fa43d78b2c4da47f7e423  ./docs/01_the_talent.md
 1f77525af29babe73927f5b183cc09a30078f0f49602686cfbb207f39738fd19  ./docs/02_how_it_works.md
 f3d2c6c7ffe60c63f16a479d6401a1c610afd10d6254c4421764bcef77e1a9bc  ./docs/03_orders_and_maturity.md
-fca2e0d54ca1b9488235f65822905aba5db03e58731ff5f694b82c5b7e79022c  ./docs/04_writing_it.md
+d793cefed8d7a496dbdf0bb51c9e07cd205af760e1afe379c758f6d461f61a7d  ./docs/04_writing_it.md
 ef2a43c40d725f6d77466334ea7d09b98041c3b6077eaf07b3ffc0404f6d2e5e  ./docs/05_the_holders.md
-810d7eca028b98aec482a7f5d81bb22d0d3038350f5be3fa472ab074b575cd6b  ./modules/README.md
+562a6a778f1cc35cd000013e1a84acec86a5f085d4954ed45fc00c95d2e7557e  ./modules/README.md
 4195136600766429c1fd20f205989368373c9440fb18d105d58ab70af03f07c0  ./modules/blue-silver.md
 f382511f16aff58d2b1d0e08b9db578a8240a2854321b9e5c4566456f18297c5  ./modules/devouring-dragon-log.md
 a6f43862285a2f9ff94b6bd55994b77e08d872dd8af1bd2448937a498c89b726  ./modules/devouring-dragon.md
@@ -37,3 +39,9 @@ afdf9c82b19bd4457261986892458a0697f66acc8859f5e29e6dfb9dccc97245  ./practice/sto
 339c992a8c6a860ce08e4d74a4f60dd10cb2f4e21cd101699f4b3ee4d4973c7f  ./practice/storyos-master-skill.md
 ecf9c7701ee51304ea705977ff1d80d8e3bd3b8b1070a91df3caaeb30889f162  ./practice/storyos-system-index.md
 197ee131021a0a6572d97e2e852835818af4bcbab7336ff055c3763daca0ef75  ./provenance/COPIES-AND-TWINS.md
+a78e5d40b59e4f931d4f7b9483e714e5c4d4ff8f6018e7de822664edb6c6797f  ./templates/README.md
+4ee4805cfcf66dfae3fe6d6299ede4a66043b556822371960008362f730a2472  ./templates/adaptation-log-entry.md
+bcdf3e58850915cdd357e4570d477b3ead39562485b664e691019eec6d9bb254  ./templates/holder-module.md
+39c7435d200314960fb02c035eaf239b188af09a0138517f59536bc9da71a662  ./templates/status-panel.md
+adb4f641f56a832f6785e2021c6a3a5fd7ceba5b6314d2524bce47feb0bba94e  ./tools/check.py
+16c4c720efb8bcbf76521a3b25e6499dd87cb4df5214f2ade7617d9768394d4a  ./tools/refresh-manifest.sh

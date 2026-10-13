@@ -67,7 +67,10 @@ Each of those rows is a section of the law, not an editorial: see §3–§5, §6
 |---|---|
 | [`canon/`](canon/) | The universal law — **MASTER-FOUNDATION.md** (v2.0, 76 §§ / 4,853 lines), **LEVEL-FRAMEWORK.md** (the two-axis level and tier reference), **GENESIS-CODEX-ADAPTIVE.md**, **STORYOS-ADAPTATION-FIREWALL.md** |
 | [`docs/`](docs/) | The guided read — [01 The Talent](docs/01_the_talent.md) · [02 How It Works](docs/02_how_it_works.md) · [03 Orders & Maturity](docs/03_orders_and_maturity.md) · [04 Writing It](docs/04_writing_it.md) · [05 The Holders](docs/05_the_holders.md) |
-| [`modules/`](modules/) | One file per holder — 17 holders across 14 universes, each sitting beneath the universal core per §71/§76. Start at the [module index](modules/README.md) |
+| [`QUICK-REFERENCE.md`](QUICK-REFERENCE.md) | The law on one page — definition, ladder, orders, the three documents, and the fifty never-forget rules (§75), for use mid-session |
+| [`modules/`](modules/) | One file per holder — 16 holders across 5 worlds, each sitting beneath the universal core per §71/§76. Start at the [module index](modules/README.md) |
+| [`templates/`](templates/) | Blank forms in the house shape — [module](templates/holder-module.md) (§71) · [status panel](templates/status-panel.md) (§69) · [log entry](templates/adaptation-log-entry.md) (§70) |
+| [`tools/`](tools/) | [`check.py`](tools/check.py) — the repository verifies itself (every file against `MANIFEST.sha256`, every relative link resolved); CI runs it on every push |
 | [`practice/`](practice/) | The StoryOS craft files forged from this work — the skills, the firewall, the system index, the Naagin control book, the lessons ledger |
 | [`provenance/`](provenance/) | [COPIES-AND-TWINS.md](provenance/COPIES-AND-TWINS.md) — where every file came from, its sha256, and the duplicates deliberately **not** propagated |
 | [`assets/`](assets/) | The banner |

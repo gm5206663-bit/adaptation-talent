@@ -58,8 +58,9 @@ all 34 rows of the §69 standard.
 
 ## For a brand-new holder
 
-Use the §71 template (described in [docs/04](../docs/04_writing_it.md)), then read two
-existing modules: one that holds a *contradiction* in its premise
-([blue-silver.md](blue-silver.md) — "hold BOTH truths at once") and one that translates the
-Talent into a world with no cultivation at all ([eternal-oc-mcu.md](eternal-oc-mcu.md)).
-Those two shapes cover most new cases.
+Start from the blank form: [`templates/holder-module.md`](../templates/holder-module.md)
+(the §71 seven parts, placeholder-driven). Then read two existing modules: one that holds a
+*contradiction* in its premise ([blue-silver.md](blue-silver.md) — "hold BOTH truths at
+once") and one that translates the Talent into a world with no cultivation at all
+([eternal-oc-mcu.md](eternal-oc-mcu.md)). Those two shapes cover most new cases, and the
+module checklist in [docs/04](../docs/04_writing_it.md) closes the loop.
