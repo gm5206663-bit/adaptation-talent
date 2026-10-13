@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 720" role="img" aria-label="One law, seventeen holders, five worlds">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d1a"/>
+      <stop offset="1" stop-color="#101a2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1320" height="720" fill="url(#bg2)"/>
+  <text x="660" y="58" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#e8c76a" letter-spacing="4">ONE LAW · SEVENTEEN HOLDERS · FIVE WORLDS</text>
+  <text x="660" y="88" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#9a94c0">Adaptation Talent — every holder sits beneath the locked universal core (§71/§76)</text>
+
+  <!-- Soul Land cluster -->
+  <rect x="40" y="120" width="620" height="330" rx="14" fill="#141026" stroke="#8a6a1f" stroke-width="1.5"/>
+  <text x="60" y="152" font-family="Verdana, sans-serif" font-size="15" fill="#e8c76a" letter-spacing="2">SOUL LAND · FOUR ERAS + SPIN-OFFS</text>
+  <g font-family="Verdana, sans-serif" font-size="13" fill="#e8e6f5">
+    <rect x="60" y="170" width="180" height="34" rx="8" fill="#241f3a"/><text x="74" y="192">Lan Shen</text>
+    <rect x="250" y="170" width="200" height="34" rx="8" fill="#241f3a"/><text x="264" y="192">Sunweave Blue Silver</text>
+    <rect x="460" y="170" width="180" height="34" rx="8" fill="#241f3a"/><text x="474" y="192">Devouring Dragon</text>
+    <rect x="60" y="214" width="180" height="34" rx="8" fill="#241f3a"/><text x="74" y="236">Luo Chen</text>
+    <rect x="250" y="214" width="180" height="34" rx="8" fill="#241f3a"/><text x="264" y="236">Qian Xun Ji</text>
+    <rect x="440" y="214" width="200" height="34" rx="8" fill="#241f3a"/><text x="454" y="236">Fire Dragon Lizard OC</text>
+    <rect x="60" y="258" width="180" height="34" rx="8" fill="#241f3a"/><text x="74" y="280">Jin Yang</text>
+    <rect x="250" y="258" width="180" height="34" rx="8" fill="#241f3a"/><text x="264" y="280">Su Yan</text>
+    <rect x="440" y="258" width="200" height="34" rx="8" fill="#241f3a"/><text x="454" y="280">Silver-Golden Wolf</text>
+    <rect x="60" y="302" width="180" height="34" rx="8" fill="#241f3a"/><text x="74" y="324">Seed of Creation OC</text>
+    <rect x="250" y="302" width="200" height="34" rx="8" fill="#241f3a"/><text x="264" y="324">Yan Shuo&#8217;er</text>
+  </g>
+  <text x="60" y="372" font-family="Verdana, sans-serif" font-size="12" fill="#8e88b5">11 holders · all four Douluo eras and the spin-off lineages · modules/</text>
+
+  <!-- MCU cluster -->
+  <rect x="690" y="120" width="280" height="150" rx="14" fill="#141026" stroke="#6ac3e8" stroke-width="1.5"/>
+  <text x="710" y="152" font-family="Verdana, sans-serif" font-size="15" fill="#6ac3e8" letter-spacing="1">MCU</text>
+  <g font-family="Verdana, sans-serif" font-size="13" fill="#e8e6f5">
+    <rect x="710" y="170" width="240" height="34" rx="8" fill="#1a2a3a"/><text x="724" y="192">Mark Howard Stark</text>
+    <rect x="710" y="214" width="240" height="34" rx="8" fill="#1a2a3a"/><text x="724" y="236">The Eternal OC (E-199999)</text>
+  </g>
+
+  <!-- Avengers cluster -->
+  <rect x="1000" y="120" width="280" height="150" rx="14" fill="#141026" stroke="#c76a8a" stroke-width="1.5"/>
+  <text x="1020" y="152" font-family="Verdana, sans-serif" font-size="15" fill="#e88aa8" letter-spacing="1">AVENGERS</text>
+  <g font-family="Verdana, sans-serif" font-size="13" fill="#e8e6f5">
+    <rect x="1020" y="170" width="240" height="34" rx="8" fill="#2a1a26"/><text x="1034" y="192">Evo &#8212; 107 chapters, S1&#8211;S2</text>
+  </g>
+  <text x="1020" y="236" font-family="Verdana, sans-serif" font-size="12" fill="#8e88b5">the account&#8217;s oldest AT run</text>
+
+  <!-- Naagin cluster -->
+  <rect x="690" y="300" width="280" height="150" rx="14" fill="#141026" stroke="#8ac76a" stroke-width="1.5"/>
+  <text x="710" y="332" font-family="Verdana, sans-serif" font-size="15" fill="#a8e88a" letter-spacing="1">NAAGIN (TWO PROJECTS)</text>
+  <g font-family="Verdana, sans-serif" font-size="13" fill="#e8e6f5">
+    <rect x="710" y="350" width="240" height="34" rx="8" fill="#1a2a1a"/><text x="724" y="372">Sheshveer &#8212; Season 1</text>
+    <rect x="710" y="394" width="240" height="34" rx="8" fill="#1a2a1a"/><text x="724" y="416">Vihaan Suri &#8212; Naagin 7</text>
+  </g>
+  <text x="710" y="440" font-family="Verdana, sans-serif" font-size="11" fill="#8e88b5">distinct OCs — do not conflate</text>
+
+  <!-- DPY cluster -->
+  <rect x="1000" y="300" width="280" height="150" rx="14" fill="#141026" stroke="#b08ae8" stroke-width="1.5"/>
+  <text x="1020" y="332" font-family="Verdana, sans-serif" font-size="15" fill="#c8a8f0" letter-spacing="1">DRAGON PRINCE YUAN</text>
+  <g font-family="Verdana, sans-serif" font-size="13" fill="#e8e6f5">
+    <rect x="1020" y="350" width="240" height="34" rx="8" fill="#211a2a"/><text x="1034" y="372">Zhou Xu — Genesis Qi world</text>
+  </g>
+  <text x="1020" y="416" font-family="Verdana, sans-serif" font-size="12" fill="#8e88b5">the Talent translated, not copied</text>
+
+  <!-- footer -->
+  <rect x="40" y="500" width="1240" height="150" rx="14" fill="#1a1a30" stroke="#3a3a5e"/>
+  <text x="70" y="540" font-family="Verdana, sans-serif" font-size="15" fill="#e8c76a">Every module: Identity · Local reality · Starting adaptation · Source architecture · Ledger · Progression path · Continuity (§71)</text>
+  <text x="70" y="572" font-family="Verdana, sans-serif" font-size="13" fill="#b8b2d8">One locked universal core — 76 sections, version 2.0 — governs them all; a module never rewrites it (§76).</text>
+  <text x="70" y="600" font-family="Verdana, sans-serif" font-size="13" fill="#b8b2d8">The Talent is never the holder&#8217;s power: it is the law that refines, integrates, and evolves their complete being along the best path their real life supports.</text>
+  <text x="70" y="628" font-family="Verdana, sans-serif" font-size="12" fill="#8e88b5">adaptation-talent · canon/ · modules/ · docs/ · templates/ · provenance/</text>
+</svg>

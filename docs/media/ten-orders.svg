@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-label="The Ten Adaptive Orders — I to V developmental capability; VI to X categories of reality">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d1a"/>
+      <stop offset="1" stop-color="#141026"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8a6a1f"/>
+      <stop offset="1" stop-color="#e8c76a"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f4a6a"/>
+      <stop offset="1" stop-color="#6ac3e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="780" fill="url(#bg)"/>
+  <g fill="none" stroke="#2a2a4a" stroke-width="1" opacity="0.5">
+    <circle cx="600" cy="420" r="330"/>
+    <circle cx="600" cy="420" r="250"/>
+    <circle cx="600" cy="420" r="170"/>
+  </g>
+
+  <text x="600" y="70" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#e8c76a" letter-spacing="4">THE TEN ADAPTIVE ORDERS</text>
+  <text x="600" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#9a94c0">Adaptation Talent · Master Foundation v2.0 · §§48–55</text>
+
+  <!-- Left: I–V developmental -->
+  <text x="130" y="160" font-family="Verdana, sans-serif" font-size="15" fill="#e8c76a" letter-spacing="2">I–V · DEVELOPMENTAL CAPABILITY</text>
+  <text x="130" y="182" font-family="Verdana, sans-serif" font-size="12" fill="#8e88b5">what the holder can develop</text>
+
+  <g font-family="Verdana, sans-serif" font-size="17" fill="#141026">
+    <rect x="130" y="200" width="380" height="56" rx="10" fill="url(#gold)" opacity="0.55"/>
+    <text x="150" y="234">I · FOUNDATIONAL — within the natural existence</text>
+    <rect x="130" y="272" width="380" height="56" rx="10" fill="url(#gold)" opacity="0.65"/>
+    <text x="150" y="306">II · INTEGRATED — many layers, one harmony</text>
+    <rect x="130" y="344" width="380" height="56" rx="10" fill="url(#gold)" opacity="0.75"/>
+    <text x="150" y="378">III · GENERATIVE — builds genuinely new function</text>
+    <rect x="130" y="416" width="380" height="56" rx="10" fill="url(#gold)" opacity="0.85"/>
+    <text x="150" y="450">IV · EVOLUTIONARY — changes what the holder IS</text>
+    <rect x="130" y="488" width="380" height="56" rx="10" fill="url(#gold)"/>
+    <text x="150" y="522">V · TRANSCENDENT — a route beyond the old ceiling</text>
+  </g>
+
+  <!-- Right: VI–X reality -->
+  <text x="650" y="160" font-family="Verdana, sans-serif" font-size="15" fill="#6ac3e8" letter-spacing="2">VI–X · CATEGORIES OF REALITY</text>
+  <text x="650" y="182" font-family="Verdana, sans-serif" font-size="12" fill="#8e88b5">what the holder&#8217;s existence touches</text>
+
+  <g font-family="Verdana, sans-serif" font-size="17" fill="#0f1a24">
+    <rect x="650" y="200" width="380" height="56" rx="10" fill="url(#blue)" opacity="0.55"/>
+    <text x="670" y="234">VI · LAW — the operating principles themselves</text>
+    <rect x="650" y="272" width="380" height="56" rx="10" fill="url(#blue)" opacity="0.65"/>
+    <text x="670" y="306">VII · DIVINE/AUTHORITY — genuine divinity</text>
+    <rect x="650" y="344" width="380" height="56" rx="10" fill="url(#blue)" opacity="0.75"/>
+    <text x="670" y="378">VIII · CONCEPTUAL — meaning as a real force</text>
+    <rect x="650" y="416" width="380" height="56" rx="10" fill="url(#blue)" opacity="0.85"/>
+    <text x="670" y="450">IX · CAUSAL — time · fate · probability</text>
+    <rect x="650" y="488" width="380" height="56" rx="10" fill="url(#blue)"/>
+    <text x="670" y="522">X · EXISTENTIAL — identity · existence itself</text>
+  </g>
+
+  <rect x="130" y="590" width="900" height="118" rx="12" fill="#1a1a30" stroke="#3a3a5e" stroke-width="1"/>
+  <text x="160" y="624" font-family="Verdana, sans-serif" font-size="15" fill="#e8c76a">Order is not combat power (§48.2).</text>
+  <text x="160" y="652" font-family="Verdana, sans-serif" font-size="13" fill="#b8b2d8">Ten dimensions are tracked separately: Order · Maturity · Capacity · Breadth · Precision ·</text>
+  <text x="160" y="674" font-family="Verdana, sans-serif" font-size="13" fill="#b8b2d8">Integration · Recursion · Authority · Current output · Resource condition.</text>
+  <text x="160" y="698" font-family="Verdana, sans-serif" font-size="13" fill="#8e88b5">Maturity: Nascent → Developing → Mature → Perfected (within its scope, always).</text>
+
+  <text x="600" y="752" text-anchor="middle" font-family="Verdana, sans-serif" font-size="12" fill="#6a6690">adaptation-talent · the law the serials run on</text>
+</svg>

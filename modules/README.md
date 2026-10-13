@@ -27,11 +27,15 @@ one world, at a recorded checkpoint.
 | [zhou-xu-dragon-prince-yuan.md](zhou-xu-dragon-prince-yuan.md) | Zhou Xu | Dragon Prince Yuan (元尊) | Module (author-locked core, details developing) |
 | [mark-stark-heir-study.md](mark-stark-heir-study.md) | Mark Howard Stark | MCU-adjacent (Stark Heir) | Study + law-mapping table (proof-of-homework document) |
 | [eternal-oc-mcu.md](eternal-oc-mcu.md) | The Eternal OC | MCU (Earth-199999) | Full module (v1 draft; Order placement awaiting author sign) |
+| [evo-avengers.md](evo-avengers.md) | Evo | Avengers Assemble (Marvel) | Assembled module (craft law quoted verbatim; serial status files stay in the workshop) |
+| [sheshveer-naagin-s1.md](sheshveer-naagin-s1.md) | Sheshveer (Gaurav) | Naagin S1 (2015 canon, alternate) | Assembled module (control-book law quoted; draft gate flagged) |
+| [vihaan-naagin7.md](vihaan-naagin7.md) | Vihaan Suri | Naagin 7 — The Shesh Naag | Assembled module (register scope; unawakened holder) |
 
-Two holders — **Evo** (Avengers) and **Vihaan Suri** (Naagin 7) — do not yet have dedicated
-module files. Their law currently lives in [`../practice/`](../practice/) (the StoryOS
-skills and system index), and their register rows in
-[docs/05](../docs/05_the_holders.md) say exactly that.
+Every holder in the register now has a dedicated module file. Three — **Evo** (Avengers),
+**Sheshveer** (Naagin S1), and **Vihaan Suri** (Naagin 7) — were **assembled 2026-10-13**
+from the craft layer while their serials' own status files stay in the workshop; each opens
+by saying so, quotes the account's public law verbatim, and flags every open gate rather
+than inventing detail.
 
 ## How to read a module
 

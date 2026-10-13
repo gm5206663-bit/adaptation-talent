@@ -1,7 +1,7 @@
 # 05 — The Holders
 
 *Every holder of the Adaptation Talent across the account, one line each, with the module
-that governs them. Sixteen holders across five worlds — Soul Land's four eras and its
+that governs them. Seventeen holders across five worlds — Soul Land's four eras and its
 spin-off lineages, the MCU (two serials), Avengers, Naagin, and Dragon Prince Yuan.*
 
 ---
@@ -24,8 +24,9 @@ spin-off lineages, the MCU (two serials), Avengers, Naagin, and Dragon Prince Yu
 | **Zhou Xu** | Dragon Prince Yuan (元尊) | [zhou-xu-dragon-prince-yuan.md](../modules/zhou-xu-dragon-prince-yuan.md) | Author-locked core; **explicitly not the Soul Land version** — adapted to Genesis Qi, bloodlines, and a different world's logic |
 | **Mark Howard Stark** | MCU-adjacent — Stark Heir | [mark-stark-heir-study.md](../modules/mark-stark-heir-study.md) | Genius and beauty by genome; the Talent optimizes; psychic core grows through "slumbers" the world calls a disease; mortal → supernatural scope at the core's birth |
 | **The Eternal OC** | MCU — Earth-199999 | [eternal-oc-mcu.md](../modules/eternal-oc-mcu.md) | 7,000-year Celestial-made Eternal; memory wipes cannot erase **adaptive memory** (hands remember what the head forgets); Order placement proposed, awaiting author sign |
-| **Evo** | Avengers Assemble (Marvel) — S1–S2 | [practice/](../practice/) — craft law | The account's oldest AT run (107 chapters); his correction record *forged* the StoryOS craft laws |
-| **Vihaan Suri** | Naagin 7 — The Shesh Naag | [practice/](../practice/) — register row | Holder, **unawakened**; foundation locked; awaiting write of Ep1 and two canon confirmations |
+| **Evo** | Avengers Assemble (Marvel) — S1–S2 | [evo-avengers.md](../modules/evo-avengers.md) | The account's oldest AT run (107 chapters); his correction record *forged* the StoryOS craft laws |
+| **Sheshveer (Gaurav)** | Naagin S1 (2015 canon) — alternate | [sheshveer-naagin-s1.md](../modules/sheshveer-naagin-s1.md) | Male Shesh clan naag, Raheja household, IPS; foundation locked (41 locks); draft gate blocked on Ep1 placement; awakens ~25 |
+| **Vihaan Suri** | Naagin 7 — The Shesh Naag | [vihaan-naagin7.md](../modules/vihaan-naagin7.md) | Holder, **unawakened**; foundation locked; awaiting write of Ep1 and two canon confirmations |
 
 ## Near-neighbours — deliberately *not* holders
 
@@ -46,12 +47,14 @@ session merges them by accident:
 
 ## Reading the register
 
-- **Module status varies on purpose.** Most holders have dedicated module files, verbatim
-  and complete. Two holders (Evo, Vihaan) are currently documented through the craft layer;
-  their register rows say so rather than pretending a module exists.
+- **Module status varies on purpose.** Most modules are verbatim files from their serials.
+  Three — Evo, Sheshveer, Vihaan Suri — were **assembled 2026-10-13** from the craft layer
+  and control book; each says so at the top and quotes its sources verbatim.
+- **The two Naagin projects never merge.** Same franchise, same clan, same talent —
+  different OCs, seasons, families, and foundations (index §5: "DO NOT CONFLATE").
 - **Every module quotes its author rulings verbatim.** The author's word outranks every
   document (authority order, §1) — so the rulings travel inside the files.
-- **Modules never rewrite the core.** All sixteen sit beneath
+- **Modules never rewrite the core.** All seventeen sit beneath
   [`canon/MASTER-FOUNDATION.md`](../canon/MASTER-FOUNDATION.md) per §71/§76.
 
 Back to: [README](../README.md) · [01 — The Talent](01_the_talent.md) ·

@@ -9,8 +9,10 @@ makes the serials gate-checkable chapter by chapter.
 |---|---|---|
 | [storyos-master-skill.md](storyos-master-skill.md) | The StoryOS master skill, v2 — the working craft manual: sequence locks, episode↔chapter maps, verification rules, and the laws bought with real failures | Its laws were **extracted from** the AT serials; several rules are literally about how the Talent must read on the page (e.g. "the Adaptation Talent compounds — visibly, dramatically, every episode" was a correction to a *failure* of that) |
 | [storyos-master-skill-v3-universal.md](storyos-master-skill-v3-universal.md) | The universal v3 edition — character-neutral and reusable for any fanfiction project; "forged from every mistake, correction, chapter, and lesson across ALL projects (Avengers/Evo S1–S2 + Naagin + Soul Land 1)" | The generalization step: the AT serials' lessons, stripped of the character so any new project inherits them |
-| [storyos-system-index.md](storyos-system-index.md) | The working index of the account's story systems — including the register rows for holders like **Vihaan Suri** (Naagin 7, AT, unawakened) and his true-name/continuity notes | This is where two of the register's holders are tracked operationally — Evo and Vihaan — while their dedicated modules remain unwritten |
-| [naagin-s1-control-book.md](naagin-s1-control-book.md) | The Naagin Season 1 control book — the production file for the serial in which Vihaan's Talent will awaken | The serial-side home of the "unawakened holder" state: everything must be stage-ready before the Talent ever shows itself |
+| [storyos-master-skill-ultimate.md](storyos-master-skill-ultimate.md) | The locked ultimate master (ULTIMATE 1.0, 3 Aug 2026) — "supersedes all prior versions" for writing and craft, scoped to "all Adaptation Talent holders," and naming the AT foundation v2.0 as its authority rank 3 | The most complete single statement of the craft method — including the twelve hardening rules ("do not convert Adaptation into omniscience… into a second intelligence…") |
+| [storyos-toolkit.md](storyos-toolkit.md) | The operational layer — session commands, scene blueprints, and the panel/log templates that carry the AT rows: *"Adaptation domain updates,"* and checklist item 12, *"Adaptation Talent correct (domain-specific)."* | The daily-use surface: the checklist a chapter is actually run against |
+| [storyos-system-index.md](storyos-system-index.md) | The working index of the account's story systems — including the register rows for holders like **Vihaan Suri** (Naagin 7, AT, unawakened) and his true-name/continuity notes | The operational home for the register's Naagin and Avengers holders — Evo, Sheshveer, and Vihaan Suri — their assembled modules now sit in [`../modules/`](../modules/) |
+| [naagin-s1-control-book.md](naagin-s1-control-book.md) | The Naagin Season 1 control book — the production file for the **Sheshveer** project (Gaurav, IPS, AT). **Not** Naagin 7: Vihaan Suri is a distinct project (system index §5) | The serial-side home of the "unawakened holder" state: everything must be stage-ready before the Talent ever shows itself |
 | [lessons-absorbed.md](lessons-absorbed.md) | The adoption ledger — records which refinements became law and why, including the three AT refinements formally adopted from the foundation's supplementary depth document: *may reveal/derive/synthesize*, *every consolidated gain must alter later perception and difficulty*, and *overload requires a traceable excess* | Receipts for how the practice layer and the universal core influenced each other |
 
 ## Reading order
@@ -19,10 +21,10 @@ makes the serials gate-checkable chapter by chapter.
   (in the kit), then [docs/04 Writing It](../docs/04_writing_it.md), then the StoryOS
   skill for the gate rules.
 - **You are auditing the craft method itself** → [storyos-master-skill-v3-universal.md](storyos-master-skill-v3-universal.md).
-- **You are tracking a holder without a module yet** → [storyos-system-index.md](storyos-system-index.md).
+- **You want the operational checklists and session commands** → [storyos-toolkit.md](storyos-toolkit.md); the account's holder tracker is [storyos-system-index.md](storyos-system-index.md).
 
 ## Provenance
 
-All five files were gathered from the workshop's `adaptive_prodigy/library/` folder during
+All seven files were gathered from the workshop's `adaptive_prodigy/library/` folder during
 assembly and are preserved byte-for-byte. Their original paths and hashes are recorded in
 [../provenance/COPIES-AND-TWINS.md](../provenance/COPIES-AND-TWINS.md).

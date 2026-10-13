@@ -42,6 +42,8 @@ root to verify every file.
 | `practice/storyos-system-index.md` | kit → `adaptive_prodigy/library/storyos_system_index.md` | `ecf9c7701ee51304` |
 | `practice/naagin-s1-control-book.md` | kit → `adaptive_prodigy/library/StoryOS-Naagin-S1-Control-Book.md` | `eea640ae7280f68e` |
 | `practice/lessons-absorbed.md` | kit → `adaptive_prodigy/library/LESSONS_ABSORBED.md` | `66e0b952798d4f77` |
+| `practice/storyos-master-skill-ultimate.md` | kit → `adaptive_prodigy/library/STORYOS_MASTER_SKILL_ULTIMATE.md` | `eb8e9a4680ad21c9` |
+| `practice/storyos-toolkit.md` | kit → `adaptive_prodigy/library/storyos_toolkit.md` | `f4cc820901a89c1e` |
 
 ("kit" = the `soul-land-universal-kit` working repository.)
 
@@ -109,3 +111,18 @@ at, not every file that contains the word "adaptation." For the same reason:
 *Assembled 2026-10-13 from the working repositories, byte-preserving. If a future session
 moves any source file, update the paths here rather than deleting a row — provenance is a
 ledger, not a snapshot.*
+
+---
+
+## Assembled for this repository (not byte copies)
+
+Six files were **written for this repository** on 2026-10-13 rather than copied — no source
+hash exists for them because this repo's public files are their only sources:
+
+| In this repo | Assembled from | Discipline |
+|---|---|---|
+| `modules/evo-avengers.md` | `practice/storyos-master-skill*.md`, `practice/storyos-toolkit.md` (this repo), quoted verbatim | The serial's own `evo_status.md` / `evo_power_reference.md` are **not** among the account's public files — the module says so and leaves no gap filled by invention |
+| `modules/sheshveer-naagin-s1.md` | `practice/naagin-s1-control-book.md` + `practice/storyos-system-index.md` (this repo), quoted verbatim | The project pack (41 locks) stays the serial's own foundation; the module lists the gates, it does not cross them |
+| `modules/vihaan-naagin7.md` | `practice/storyos-system-index.md` rows (this repo) | Unawakened holder — written to register scope only |
+| `docs/media/ten-orders.svg` · `docs/media/holders-map.svg` | Drawn for this repository (§48 Order map; holder census) | Self-contained SVG — no external assets |
+| `docs/index.html` | Hand-written reader page for GitHub Pages | Links out to GitHub for the prose files |

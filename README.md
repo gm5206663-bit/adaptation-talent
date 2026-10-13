@@ -10,7 +10,7 @@ and the full provenance — gathered into one clean, systematic home.
 
 <p align="center">
   <a href="canon/MASTER-FOUNDATION.md"><img src="https://img.shields.io/badge/foundation-v2.0%20locked-gold?style=flat-square" alt="Foundation v2.0"></a>
-  <a href="docs/05_the_holders.md"><img src="https://img.shields.io/badge/holders-16%20%C2%B7%205%20worlds-9cf?style=flat-square" alt="Holders"></a>
+  <a href="docs/05_the_holders.md"><img src="https://img.shields.io/badge/holders-17%20%C2%B7%205%20worlds-9cf?style=flat-square" alt="Holders"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
 </p>
 
@@ -68,17 +68,18 @@ Each of those rows is a section of the law, not an editorial: see §3–§5, §6
 | [`canon/`](canon/) | The universal law — **MASTER-FOUNDATION.md** (v2.0, 76 §§ / 4,853 lines), **LEVEL-FRAMEWORK.md** (the two-axis level and tier reference), **GENESIS-CODEX-ADAPTIVE.md**, **STORYOS-ADAPTATION-FIREWALL.md** |
 | [`docs/`](docs/) | The guided read — [01 The Talent](docs/01_the_talent.md) · [02 How It Works](docs/02_how_it_works.md) · [03 Orders & Maturity](docs/03_orders_and_maturity.md) · [04 Writing It](docs/04_writing_it.md) · [05 The Holders](docs/05_the_holders.md) |
 | [`QUICK-REFERENCE.md`](QUICK-REFERENCE.md) | The law on one page — definition, ladder, orders, the three documents, and the fifty never-forget rules (§75), for use mid-session |
-| [`modules/`](modules/) | One file per holder — 16 holders across 5 worlds, each sitting beneath the universal core per §71/§76. Start at the [module index](modules/README.md) |
+| [`modules/`](modules/) | One file per holder — 17 holders across 5 worlds, each sitting beneath the universal core per §71/§76. Start at the [module index](modules/README.md) |
 | [`templates/`](templates/) | Blank forms in the house shape — [module](templates/holder-module.md) (§71) · [status panel](templates/status-panel.md) (§69) · [log entry](templates/adaptation-log-entry.md) (§70) |
 | [`tools/`](tools/) | [`check.py`](tools/check.py) — the repository verifies itself (every file against `MANIFEST.sha256`, every relative link resolved); CI runs it on every push |
-| [`practice/`](practice/) | The StoryOS craft files forged from this work — the skills, the firewall, the system index, the Naagin control book, the lessons ledger |
+| [`practice/`](practice/) | The StoryOS craft files forged from this work — the skills (working, universal, and the locked ultimate master), the AT toolkit, the firewall, the system index, the Naagin control book, the lessons ledger |
 | [`provenance/`](provenance/) | [COPIES-AND-TWINS.md](provenance/COPIES-AND-TWINS.md) — where every file came from, its sha256, and the duplicates deliberately **not** propagated |
 | [`assets/`](assets/) | The banner |
 
 ## The holders
 
-Sixteen holders across five worlds — Soul Land's four eras and their spin-off lineages, the
-MCU twice over (an Eternal and a Stark heir), Avengers, Naagin, and Dragon Prince Yuan.
+Seventeen holders across five worlds — Soul Land's four eras and their spin-off lineages,
+the MCU twice over (an Eternal and a Stark heir), Avengers, two Naagin projects (kept apart
+by law), and Dragon Prince Yuan.
 Full register with status and module links:
 **[docs/05_the_holders.md](docs/05_the_holders.md)**.
 
@@ -98,11 +99,13 @@ Full register with status and module links:
 | Zhou Xu | Dragon Prince Yuan (元尊) | [zhou-xu-dragon-prince-yuan.md](modules/zhou-xu-dragon-prince-yuan.md) |
 | Mark Howard Stark | MCU-adjacent (Stark Heir) | [mark-stark-heir-study.md](modules/mark-stark-heir-study.md) |
 | The Eternal OC | MCU (Earth-199999) | [eternal-oc-mcu.md](modules/eternal-oc-mcu.md) |
-| Evo | Avengers Assemble S1–S2 | [practice/](practice/) — craft law; module pending |
-| Vihaan Suri | Naagin 7 (unawakened) | [practice/](practice/) — register row; module pending |
+| Evo | Avengers Assemble S1–S2 | [evo-avengers.md](modules/evo-avengers.md) |
+| Sheshveer (Gaurav) | Naagin S1 (2015 canon, alternate) | [sheshveer-naagin-s1.md](modules/sheshveer-naagin-s1.md) |
+| Vihaan Suri | Naagin 7 — The Shesh Naag (unawakened) | [vihaan-naagin7.md](modules/vihaan-naagin7.md) |
 
-*(Two holders are documented through the craft layer rather than a dedicated module file —
-both are flagged in the holders register with where their law currently lives.)*
+*(Evo, Sheshveer, and Vihaan Suri were assembled on 2026-10-13 from the craft layer — each
+module quotes its sources verbatim and says so at the top. The two Naagin projects are
+distinct on purpose; the register's §5 wall explains why.)*
 
 ## Reading paths
 
